@@ -1,0 +1,166 @@
+body{
+        font-family: sans-serif;
+}
+.logo{
+
+    color: white;
+    font-size: 25px;
+    font-weight: 900px;
+}
+
+.nav-link1{
+
+    margin: 25px;
+    color:white;
+    font-size: 18px;
+    font-weight:600;
+    padding: 6px 6px 14px 6px;
+}
+.bg-custom{
+    background-color:#4cc8ee;
+}
+
+.nav-link1:Hover{
+   
+    border-bottom: 3px solid red;
+    text-decoration: none;
+    color:red;
+    padding-bottom:18px;
+
+}
+
+.hero{
+   
+    background-image: url(img/hero.jpg);
+    width: 100%;
+    height: 45rem;
+    background-size: cover;
+}
+.hero-caption{
+    padding-top:120px;
+    color:white;
+    font-size: large;
+    margin-left:150px;
+}
+.hero-caption h1
+{
+    font-size:60px;
+    font-weight: bold;
+    
+
+}
+.hero-caption h1:nth-child(3)
+{
+    color: crimson;
+    
+    
+}
+.myborder{
+
+    border: 2px solid white;
+}
+.my-button{
+    font-size: 20px;
+    padding:7px 10px 7px 10px;
+    color: white;
+    background-color: rgb(255, 217, 1);
+
+}
+.my-button:hover{
+   
+    color: rgb(255, 217, 1);
+    background-color: seagreen;
+
+}
+
+
+.social-media img{
+    display: inline-block;
+    margin: 10px;
+    border-radius: 50%;
+}
+.social-media img:hover
+{
+    border: 3px solid #FFD901;
+
+}
+.image-border{
+    position: absolute;
+    border: 15px solid tomato;
+}
+.about-img img{
+    height: 550px;
+    width: 400px;
+    position: relative;
+    bottom: 2rem;
+    right: 1.5 vrem;
+}
+
+.about-me p{
+    padding: 20px 80px 20px 80px;
+    text-align: justify;
+
+}
+
+.hr1{
+    width: 120px;
+    height: 3px;
+    background-color:yellow;
+}
+.hr2{
+    width: 80px;
+    height: 3px;
+    background-color: yellow;
+}
+
+.about-me h1{
+    padding-top: 40px;
+    font-weight: bold;
+}
+.row-col{
+
+    padding-bottom: 70px;
+}
+.about-me{
+
+    background-color: springgreen;
+}
+.mybutton1{
+    
+    background-color: orange;
+    padding: 5px 5px 5px 14px;
+}
+.mybutton1:hover{
+    background-color:white;
+}
+.Myskill{
+    margin-bottom: 250px;
+}
+.Myskill h1{
+    padding-top: 90px;
+    color: black;
+    font-weight: bold;
+}
+
+
+.form-1{
+    margin-top: 60px;
+    max-width: 50rem;
+    background-color: skyblue;
+    margin-bottom: 60px;
+    
+    
+}
+.contact5{
+    background-color: darkorchid;
+    height: 45rem;
+}
+
+
+.footer{
+    width: 100%;
+    background-color: deeppink;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+}
